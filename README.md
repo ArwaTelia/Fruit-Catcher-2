@@ -1,2 +1,3 @@
-# pro-41-fruit-catcher2
-https://priya-shanmus.github.io/pro-41-fruit-catcher2/
+# Fruit Catcher-2
+Project 41
+https://arwatelia.github.io/Fruit-Catcher-2/
